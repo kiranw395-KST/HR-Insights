@@ -1,0 +1,32 @@
+Department,Position,Avg_Salary,Min_Salary,Max_Salary
+Admin Offices,Accountant I,63507,63000,64520
+Admin Offices,Administrative Assistant,52280,49920,55000
+Sales,Area Sales Manager,64932,55875,74326
+IT/IS,BI Developer,95465,90100,99020
+IT/IS,BI Director,110929,110929,110929
+IT/IS,CIO,220450,220450,220450
+IT/IS,Data Analyst,89756,83552,93554
+IT/IS,Data Architect,150290,150290,150290
+IT/IS,Database Administrator,108499,97999,114800
+Production,Director of Operations,170500,170500,170500
+Sales,Director of Sales,180000,180000,180000
+IT/IS,Enterprise Architect,103613,103613,103613
+IT/IS,IT Director,178000,178000,178000
+IT/IS,IT Manager - DB,144959,140920,148999
+IT/IS,IT Manager - Infra,157000,157000,157000
+IT/IS,IT Manager - Support,138888,138888,138888
+IT/IS,IT Support,63684,50178,74679
+IT/IS,Network Engineer,61605,50750,76029
+Executive Office,President & CEO,250000,250000,250000
+IT/IS,Principal Data Architect,120000,120000,120000
+Production,Production Manager,75294,62957,88976
+Production,Production Technician I,55524,45046,64991
+Production,Production Technician II,64892,55315,74813
+Sales,Sales Manager,69240,65729,72992
+IT/IS,Senior BI Developer,84802,81584,87921
+Admin Offices,Shared Services Manager,93046,93046,93046
+Software Engineering,Software Engineer,96719,83363,108987
+Software Engineering,Software Engineering Manager,77692,77692,77692
+Admin Offices,Sr. Accountant,102859,99351,106367
+IT/IS,Sr. DBA,102234,100031,104437
+IT/IS,Sr. Network Engineer,93070,85028,107226

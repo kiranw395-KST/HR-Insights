@@ -1,0 +1,63 @@
+Department,ManagerName,PerformanceScore,Avg_Engagement,Avg_Satisfaction
+Admin Offices,Board of Directors,Fully Meets,5.0,3
+Admin Offices,Brandon R. LeBlanc,Fully Meets,4.34857143674578,3
+Admin Offices,Janet King,Fully Meets,4.099999904632568,4
+Executive Office,Board of Directors,Fully Meets,4.829999923706056,3
+IT/IS,Brian Champaigne,Fully Meets,4.05875000357628,4
+IT/IS,Eric Dougall,Exceeds,4.639999866485596,4
+IT/IS,Eric Dougall,Fully Meets,4.566666603088378,3
+IT/IS,Janet King,Exceeds,4.599999904632568,5
+IT/IS,Jennifer Zamora,Exceeds,4.650000095367432,5
+IT/IS,Jennifer Zamora,Fully Meets,4.1333333651224775,4
+IT/IS,Jennifer Zamora,Needs Improvement,2.390000104904175,3
+IT/IS,Peter Monroe,Fully Meets,4.243846159714919,4
+IT/IS,Peter Monroe,PIP,1.2000000476837158,3
+IT/IS,Simon Roup,Exceeds,4.440000057220459,4
+IT/IS,Simon Roup,Fully Meets,4.1966666380564375,3
+Production,Amy Dunn,Exceeds,4.553333441416423,4
+Production,Amy Dunn,Fully Meets,4.2453333854675295,3
+Production,Amy Dunn,Needs Improvement,2.400000095367432,5
+Production,Amy Dunn,PIP,1.3399999737739563,3
+Production,Brannon Miller,Exceeds,4.357142857142857,3
+Production,Brannon Miller,Fully Meets,4.294000029563904,3
+Production,Brannon Miller,Needs Improvement,3.880000114440918,4
+Production,Brannon Miller,PIP,2.900000035762787,2
+Production,David Stanley,Exceeds,4.099999904632568,4
+Production,David Stanley,Fully Meets,4.24368419145283,3
+Production,David Stanley,Needs Improvement,2.440000057220459,5
+Production,Elijiah Gray,Exceeds,4.25,3
+Production,Elijiah Gray,Fully Meets,4.241111146079168,4
+Production,Elijiah Gray,Needs Improvement,2.399999976158142,3
+Production,Janet King,Exceeds,4.266666650772096,3
+Production,Janet King,Fully Meets,4.284000015258789,3
+Production,Janet King,Needs Improvement,3.2350000143051147,2
+Production,Kelley Spirea,Exceeds,4.566666762034099,3
+Production,Kelley Spirea,Fully Meets,4.575555483500163,3
+Production,Kelley Spirea,Needs Improvement,2.5999999046325684,4
+Production,Ketsia Liebig,Exceeds,4.3999998569488525,4
+Production,Ketsia Liebig,Fully Meets,4.033333354526096,4
+Production,Ketsia Liebig,Needs Improvement,3.5999999046325684,3
+Production,Kissy Sullivan,Exceeds,4.599999904632568,4
+Production,Kissy Sullivan,Fully Meets,4.185000009006924,4
+Production,Kissy Sullivan,Needs Improvement,2.0,3
+Production,Kissy Sullivan,PIP,2.3299999237060547,2
+Production,Michael Albert,Exceeds,4.6499998569488525,4
+Production,Michael Albert,Fully Meets,4.119999974966049,4
+Production,Michael Albert,Needs Improvement,3.75,3
+Production,Michael Albert,PIP,3.0,1
+Production,Webster Butler,Exceeds,4.680000066757201,4
+Production,Webster Butler,Fully Meets,4.3505882235134345,3
+Production,Webster Butler,Needs Improvement,3.754999995231629,4
+Sales,Debra Houlihan,Fully Meets,4.559999942779541,4
+Sales,Debra Houlihan,Needs Improvement,2.400000095367432,4
+Sales,Janet King,Fully Meets,4.5,4
+Sales,John Smith,Fully Meets,4.065000017484029,4
+Sales,John Smith,PIP,2.1149999499320984,2
+Sales,Lynn Daneault,Exceeds,4.434999942779541,4
+Sales,Lynn Daneault,Fully Meets,4.074444505903456,4
+Sales,Lynn Daneault,PIP,1.9049999713897705,3
+Software Engineering,Alex Sweetwater,Exceeds,4.75,5
+Software Engineering,Alex Sweetwater,Fully Meets,4.181666612625121,3
+Software Engineering,Alex Sweetwater,Needs Improvement,2.0999999046325684,5
+Software Engineering,Janet King,Fully Meets,4.150000095367432,4
+Software Engineering,Jennifer Zamora,Fully Meets,3.839999914169312,3
